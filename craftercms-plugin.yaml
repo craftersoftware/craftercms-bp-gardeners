@@ -19,18 +19,18 @@ plugin:
     Gardeners is a single page Crafter 3 blueprint with several information display section and great managament of images and background video
   website:
     name: "Gardeners"
-    url: https://github.com/rivetlogic/craftercms-bp-gardeners.git
+    url: https://github.com/craftersoftware/craftercms-bp-gardeners
   media:
     screenshots:
       - title: Home Section
         description: Screenshot of the home section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-gardeners/master/static-assets/images/screenshots/bp_gardeners_home.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-gardeners/4/static-assets/images/screenshots/bp_gardeners_home.png"
       - title: Business/Work Section
         description: Screenshot of the business and work sections
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-gardeners/master/static-assets/images/screenshots/bp_gardeners_business_work.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-gardeners/4/static-assets/images/screenshots/bp_gardeners_business_work.png"
       - title: Gallery Section
         description: Screenshot of the gallery section
-        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-gardeners/master/static-assets/images/screenshots/bp_gardeners_gallery.png"
+        url: "https://raw.githubusercontent.com/craftersoftware/craftercms-bp-gardeners/4/static-assets/images/screenshots/bp_gardeners_gallery.png"
   developer:
     company:
       name: Rivet Logic
